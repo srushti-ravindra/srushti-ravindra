@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @srushti-ravindra
-- 👀 I’m interested in ethical hacking and security analyst
-- 🌱 I’m currently learning information science engineering
+- 👋 Hi, I’m @srushti-ravindra a tech ethusiast with keen intrest in developing securing network 
 - 😄 Pronouns: she/her
   
 
